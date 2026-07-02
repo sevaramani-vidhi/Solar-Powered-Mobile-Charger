@@ -81,7 +81,7 @@ This project demonstrates the practical implementation of renewable energy syste
 
 ## 📄 Documentation
 
-📘 **Project Report:** [Solar-Powered Mobile Charger (PDF)](solar-powered-mobile-charger.pdf)
+📘 **Project Report:** [Solar-Powered Mobile Charger (PDF)](solar-power-battery-charger.pdf)
 
 ---
 
